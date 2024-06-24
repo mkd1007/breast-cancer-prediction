@@ -6,10 +6,6 @@ This repository contains the code and data used in our study on predicting breas
 
 The dataset used in this study is the Wisconsin Diagnostic Breast Cancer (WDBC) dataset from the UCI Machine Learning Repository. You can find more information about the dataset [here](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic).
 
-## Installation
-
-To run the code, you need to have Python installed. You can install the required packages using:
-
 
 
 ## Installation
